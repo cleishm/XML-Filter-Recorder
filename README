@@ -1,0 +1,21 @@
+Readme for XML::Filter::Recorder
+
+XML::Filter::Recorder is a record/playback module for SAX events.  It is based
+on Matt Seargent's XML::Filter::Cache.
+
+Features a flexible interface for cache storage.  For further details, see the
+pod documentation.
+
+For licensing, see LICENSE file in this distribution.
+To install:
+
+  perl Makefile.PL
+  make
+  make test
+  sudo make install
+
+will probably do it.
+
+Please send any bug reports to Chris Leishman <chris@leishman.org>.
+
+Enjoy!
